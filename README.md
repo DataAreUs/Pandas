@@ -1,4 +1,6 @@
-# Pandas # python_3.x # macOS
+# Pandas 
+# python_3.x 
+# macOS
 
 Virtual environment for pandas in VS Code, using miniconda
 ---------------------------------------------------------------------
