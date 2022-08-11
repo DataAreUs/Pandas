@@ -24,7 +24,7 @@ install pandas for this specific environment
 
 - pip install pandas
 
-Now after this, install packages with **requirements.txt**,
+Now after this, install packages with the help of **requirements.txt**,
 in homework(**Workspace**) folder, make a new **.txt** file using **"textEdit"** or any text editor,
 file should be containing these following lines
 
